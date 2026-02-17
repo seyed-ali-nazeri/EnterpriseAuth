@@ -1,0 +1,7 @@
+C:\Users\ali\Desktop\EnterpriseAuth\EnterpriseAuth\obj\Debug\net9.0\EnterpriseAuth.csproj.AssemblyReference.cache
+C:\Users\ali\Desktop\EnterpriseAuth\EnterpriseAuth\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\ali\Desktop\EnterpriseAuth\EnterpriseAuth\obj\Debug\net9.0\EnterpriseAuth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ali\Desktop\EnterpriseAuth\EnterpriseAuth\obj\Debug\net9.0\EnterpriseAuth.AssemblyInfoInputs.cache
+C:\Users\ali\Desktop\EnterpriseAuth\EnterpriseAuth\obj\Debug\net9.0\EnterpriseAuth.AssemblyInfo.cs
+C:\Users\ali\Desktop\EnterpriseAuth\EnterpriseAuth\obj\Debug\net9.0\EnterpriseAuth.csproj.CoreCompileInputs.cache
+C:\Users\ali\Desktop\EnterpriseAuth\EnterpriseAuth\obj\Debug\net9.0\EnterpriseAuth.MvcApplicationPartsAssemblyInfo.cache
